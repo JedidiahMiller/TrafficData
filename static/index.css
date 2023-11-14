@@ -1,0 +1,33 @@
+
+
+body {
+
+  font-family: sans-serif;
+
+  background-color: cadetblue;
+  margin: auto;
+
+  display: flex;
+
+  flex-direction: column;
+  align-items: center;
+
+}
+
+ol {
+
+  padding: 1em;
+
+
+  background-color: gainsboro;
+  max-width: 30em;
+
+  border-radius: 0.5em;
+
+}
+
+li {
+  padding: 1em;
+  margin: 1em 0;
+  list-style-type: none;
+}
